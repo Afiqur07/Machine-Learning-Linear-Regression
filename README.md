@@ -1,7 +1,7 @@
 # Machine-Learning / Data Science -Linear-Regression Project
 Predicting the performance of various high performance concretes using different Linear regression Models.
 
-The Problem: The goal of this assignment is to explore the development of linear regression models for concrete compressive strength prediction based on the relative amounts of ingredients used in a given concrete mixture and the age of the concrete.
+The Problem: The goal of this project is to explore the development of linear regression models for concrete compressive strength prediction based on the relative amounts of ingredients used in a given concrete mixture and the age of the concrete.
 
 Methods Used: Ordinary least squares (“simple”) linear regression, Ridge Regression and Lasso Regression.
 
